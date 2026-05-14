@@ -1,0 +1,29 @@
+# Python virtual environment
+Include/
+Lib/
+Scripts/
+share/
+pyvenv.cfg
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Matplotlib cache
+.matplotlib/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Eigene CSI-Aufnahmen (optional - nur wenn du keine .pcap/.csv hochladen willst)
+*.pcap
+*.csv
